@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://deepcb01.github.io/Vignovate/sitemap.xml
