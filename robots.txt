@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vignovate.com/sitemap.xml
+Sitemap: https://deepcb01.github.io/Vignovate/sitemap.xml

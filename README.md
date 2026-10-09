@@ -12,7 +12,7 @@ assets/favicon.svg, favicon-32.png, apple-touch-icon.png
 ```
 
 ## Before you publish - 4 things to set
-1. **Domain**: all canonical/OG/sitemap URLs use `https://vignovate.com` (assumed). Find & replace it if your domain differs.
+1. **Domain**: canonical/OG/sitemap URLs use `https://deepcb01.github.io/Vignovate/` (GitHub Pages). If you later add a custom domain, find & replace that URL.
 2. **Email**: contact email is `vignovate@gmail.com` (search the project to change it).
 3. **Contact form**: put your free key from web3forms.com in the hidden `access_key` input. Until then the form opens the visitor's email app instead.
 4. **Social links**: the old footer icons pointed to generic facebook.com / instagram.com / linkedin.com homepages, so they were removed. Add your real profile URLs when ready.
